@@ -28,8 +28,4 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - announcements:
-      title: hehe
-      id: announcements
-      subtitle: blah
 ---
