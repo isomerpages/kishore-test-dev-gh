@@ -28,14 +28,4 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - announcements:
-      title: dfsfsd
-      id: announcements
-      subtitle: fdasfdasfdsaf
-      announcement_items:
-        - title: Announcement
-          date: 15/09/2023
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
 ---
