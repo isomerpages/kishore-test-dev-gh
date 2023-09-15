@@ -33,12 +33,12 @@ sections:
       id: announcements
       subtitle: blah
       announcement_items:
-        - title: Announcement1
+        - title: Announcement
           date: 15/09/2023
           announcement: Announcement content
           link_text: ""
           link_url: ""
-        - title: Announcement
+        - title: Announcement1
           date: 15/09/2023
           announcement: Announcement content
           link_text: ""
