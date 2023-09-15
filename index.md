@@ -27,6 +27,11 @@ sections:
       id: announcements
       subtitle: haha
       announcement_items:
+        - title: Announcement2 is rendered above
+          date: 15/09/2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
         - title: Announcement1
           date: 11/09/2023
           announcement: Announcement content
