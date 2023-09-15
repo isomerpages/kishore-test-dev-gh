@@ -31,5 +31,11 @@ sections:
   - announcements:
       title: hehe
       id: announcements
-      subtitle: balh
+      subtitle: blah
+      announcement_items:
+        - title: Announcement
+          date: 15/09/2023
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
