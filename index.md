@@ -22,14 +22,14 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+  - announcements:
+      title: hehe
+      id: announcements
+      subtitle: haha
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - announcements:
-      title: New announcements block
-      id: announcements
-      subtitle: Add a list of announcements with dates
 ---
