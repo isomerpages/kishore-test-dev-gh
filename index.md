@@ -33,7 +33,7 @@ sections:
       id: announcements
       subtitle: blah
       announcement_items:
-        - title: Announcement
+        - title: Announcement1
           date: 15/09/2023
           announcement: Announcement content
           link_text: ""
