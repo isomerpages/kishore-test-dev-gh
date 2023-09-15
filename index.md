@@ -27,11 +27,11 @@ sections:
       id: announcements
       subtitle: haha
       announcement_items:
-        - title: Announcement
-          date: 15/09/2023
+        - title: Announcement1
+          date: 11/09/2023
           announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          link_text: hi
+          link_url: https://google.com
   - infobar:
       title: Infobar title
       subtitle: Subtitle
