@@ -35,7 +35,7 @@ sections:
       subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Announcement
-          date: 15/09/2023, 3:38:50 pm
+          date: 13/09/2023
           announcement: Announcement content
           link_text: ""
           link_url: ""
