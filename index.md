@@ -28,20 +28,4 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - announcements:
-      title: New announcements block
-      addSectionTitle: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: Announcement2
-          date: 15/09/2023
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
-        - title: Announcement1
-          date: 15/09/2023
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
 ---
