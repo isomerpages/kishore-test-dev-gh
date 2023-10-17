@@ -1,4 +1,5 @@
 collections:
   new-folder-ya:
     output: true
-    order: []
+    order:
+      - hihihihihi.md
