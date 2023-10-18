@@ -1,4 +1,5 @@
 collections:
   sfdsfdsfdsf:
     output: true
-    order: []
+    order:
+      - qweeee.md
