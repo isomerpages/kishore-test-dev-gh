@@ -32,4 +32,11 @@ sections:
       title: New announcements block
       id: announcements
       subtitle: Add a list of announcements with dates
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
