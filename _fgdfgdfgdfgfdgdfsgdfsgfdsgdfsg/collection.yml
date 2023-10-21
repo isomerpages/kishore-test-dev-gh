@@ -1,0 +1,5 @@
+collections:
+  fgdfgdfgdfgfdgdfsgdfsgfdsgdfsg:
+    output: true
+    order:
+      - privacy.md
