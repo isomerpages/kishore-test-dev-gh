@@ -1,6 +1,9 @@
 ---
 title: Example Title
 permalink: /new-folder-ya/permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+## hihihh
+
+# hhihihihihi
