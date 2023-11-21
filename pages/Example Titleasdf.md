@@ -8,7 +8,3 @@ description: ""
 
 ![alt text](/images/smol%20imagefdsafdf.png)
 
-
-
-alert("Hello");
-
