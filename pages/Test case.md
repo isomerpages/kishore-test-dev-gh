@@ -4,4 +4,25 @@ permalink: /permalink/
 variant: markdown
 description: ""
 ---
-<h1>My First Heading</h1><p>My first paragraph.</p><p><br><a href="https://www.example.com" rel="noopener noreferrer nofollow" target="_blank">This is a link</a></p><img alt="My Image" src="/images/favicon.ico"><p>Text inside a div element</p><ul data-tight="true" class="tight"><li><p>List item 1</p></li><li><p>List item 2</p></li></ul><table><tbody><tr><th rowspan="1" colspan="1"><p>Table Header</p></th><td rowspan="1" colspan="1"><p>Table data</p></td></tr></tbody></table><p>First name:<br><br>Last name:<br><br>The cat was playing in the garden.<br> Volvo Saab Mercedes Audi <br>Submit</p><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe></div><div class="iframe-wrapper"><iframe height="580" width="500" allowfullscreen="true" frameborder="0" src="https://www.instagram.com/p/B8G\_7jIHacD/embed"></iframe></div><div class="iframe-wrapper"><iframe height="800" width="500" allowfullscreen="true" frameborder="0" src="https://www.tiktok.com/embed/v2/6943627954003537158?lang=en-US"></iframe></div><div class="iframe-wrapper"><iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8354345096036!2d144.95373531531592!3d-37.817209979751584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0x5045675218ce6e0!2sMelbourne%20VIC%2C%20Australia!5e0!3m2!1sen!2s!4v1631238689673!5m2!1sen!2s"></iframe></div><div class="iframe-wrapper"><iframe height="300" width="100%" allowfullscreen="true" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293&amp;color=%23ff5500&amp;auto\_play=false&amp;hide\_related=false&amp;show\_comments=true&amp;show\_user=true&amp;show\_reposts=false&amp;show\_teaser=true"></iframe></div>
+<table cellpadding="10" cellspacing="0" border="1" class="styled-table" id="myTable">
+  <caption>Sample Table</caption>
+  <thead>
+    <tr>
+      <th scope="col">Header 1</th>
+      <th scope="col">Header 2</th>
+      <th scope="col">Header 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Data 1</td>
+      <td>Data 2</td>
+      <td>Data 3</td>
+    </tr>
+    <tr>
+      <td>Data 4</td>
+      <td>Data 5</td>
+      <td>Data 6</td>
+    </tr>
+  </tbody>
+</table>
