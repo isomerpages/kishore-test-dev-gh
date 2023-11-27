@@ -1,28 +1,7 @@
 ---
 title: Test case
 permalink: /permalink/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<table cellpadding="10" cellspacing="0" border="1" class="styled-table" id="myTable">
-  <caption>Sample Table</caption>
-  <thead>
-    <tr>
-      <th scope="col">Header 1</th>
-      <th scope="col">Header 2</th>
-      <th scope="col">Header 3</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Data 1</td>
-      <td>Data 2</td>
-      <td>Data 3</td>
-    </tr>
-    <tr>
-      <td>Data 4</td>
-      <td>Data 5</td>
-      <td>Data 6</td>
-    </tr>
-  </tbody>
-</table>
+<table><tbody><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Sample Table</p></td></tr><tr><th rowspan="1" colspan="1"><p>Header 1</p></th><th rowspan="1" colspan="1"><p>Header 2</p></th><th rowspan="1" colspan="1"><p>Header 3</p></th></tr><tr><td rowspan="1" colspan="1"><p>Data 1</p></td><td rowspan="1" colspan="1"><p>Data 2</p></td><td rowspan="1" colspan="1"><p>Data 3</p></td></tr><tr><td rowspan="1" colspan="1"><p>Data 4</p></td><td rowspan="1" colspan="1"><p>Data 5</p></td><td rowspan="1" colspan="1"><p>Data 6</p></td></tr></tbody></table>
