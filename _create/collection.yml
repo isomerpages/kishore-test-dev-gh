@@ -1,4 +1,5 @@
 collections:
   create:
     output: true
-    order: []
+    order:
+      - terms-of-use.md
