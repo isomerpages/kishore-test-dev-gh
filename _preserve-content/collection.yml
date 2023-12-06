@@ -1,5 +1,5 @@
 collections:
-  new-folder:
+  preserve-content:
     output: true
     order:
       - Subfolder/Example Title.md
