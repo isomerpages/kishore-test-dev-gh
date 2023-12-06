@@ -1,5 +1,5 @@
 collections:
-  new-folder-yasadfdasf:
+  new-folder:
     output: true
     order:
       - Example Title.md
