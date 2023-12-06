@@ -1,0 +1,5 @@
+collections:
+  hini:
+    output: true
+    order:
+      - test.md

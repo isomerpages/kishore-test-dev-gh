@@ -1,5 +1,6 @@
 ---
-title: qweeee
+title: test meeee
 permalink: /permalink/
+variant: tiptap
 description: ""
 ---

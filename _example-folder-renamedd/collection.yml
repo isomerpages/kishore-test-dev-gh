@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  example-folder-renamedd:
     output: true
     order:
       - folder-page.md
