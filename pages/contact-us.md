@@ -26,7 +26,7 @@ locations:
     title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
+      - phone: +65 6123 4589
       - email: enquiries@abc.gov.sg
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
