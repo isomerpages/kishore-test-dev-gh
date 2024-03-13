@@ -18,7 +18,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>there is nothing inside here</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
