@@ -6,7 +6,7 @@ agency_name: Agency Name
 locations:
   - address:
       - 31 Sesame Street
-      - Big Bird Building
+      - Big Bird Building Not
       - Singapore 123456
     operating_hours:
       - days: Mon - Fri
@@ -26,7 +26,7 @@ locations:
     title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
+      - phone: +65 6123 4589
       - email: enquiries@abc.gov.sg
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
