@@ -42,6 +42,7 @@ sections:
   - textcards:
       title: ASMC Products
       id: textcards
+      subtitle: ""
       description: This portal provides operational information and products on the
         weather and smoke haze situation in the ASEAN region.
       cards:
@@ -60,6 +61,7 @@ sections:
   - textcards:
       title: ""
       id: textcards
+      subtitle: ""
       cards:
         - title: Hotspot Reports
           description: JPSS-1/NOAA-20
