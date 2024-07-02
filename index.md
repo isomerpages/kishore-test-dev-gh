@@ -39,4 +39,38 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - textcards:
+      title: ASMC Products
+      id: textcards
+      description: This portal provides operational information and products on the
+        weather and smoke haze situation in the ASEAN region.
+      cards:
+        - title: Satellite Images
+          description: JPSS-1/NOAA-20
+          linktext: View
+          url: ""
+        - title: Satellite Images
+          description: SUOMI-NPP
+          linktext: View
+          url: ""
+        - title: Hotspot Reports
+          description: Suomi-NPP
+          linktext: View
+          url: ""
+  - textcards:
+      title: ""
+      id: textcards
+      cards:
+        - title: Hotspot Reports
+          description: JPSS-1/NOAA-20
+          linktext: View
+          url: ""
+        - title: Regional Haze Situation
+          description: ""
+          linktext: View
+          url: ""
+        - title: Smoke Haze Dispersion Model
+          description: ""
+          linktext: View
+          url: ""
 ---
