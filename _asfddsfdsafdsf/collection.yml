@@ -1,4 +1,5 @@
 collections:
   asfddsfdsafdsf:
     output: true
-    order: []
+    order:
+      - Example Title haha.md
